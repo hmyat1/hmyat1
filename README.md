@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ishita.
+- 👋 Hi there!This is Ishita.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Computer Programming and Analysis at Seneca College.
 - 💞️ I’m looking to collaborate on CPA program.
